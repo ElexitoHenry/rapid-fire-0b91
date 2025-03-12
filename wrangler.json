@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "payment",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "8f792a3c-008d-4c79-aac1-e857694fd023",
+      "database_name": "small-mountain-b80e-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
